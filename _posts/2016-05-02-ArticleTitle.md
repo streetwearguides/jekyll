@@ -2,6 +2,7 @@
 layout: post
 title: This is the post title
 tag: list, of, tags, comma, seperated
+link: http://i.imgur.com/LC3JMBJ.jpg
 ---
 
 This text here should be used for the preview automatically this text is only here to see if that works.This text here should be used for the preview automatically this text is only here to see if that works.This text here should be used for the preview automatically this text is only here to see if that works.This text here should be used for the preview automatically this text is only here to see if that works.This text here should be used for the preview automatically this text is only here to see if that works.This text here should be used for the preview automatically this text is only here to see if that works.This text here should be used for the preview automatically this text is only here to see if that works.
